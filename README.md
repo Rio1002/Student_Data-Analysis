@@ -5,15 +5,19 @@ This project analyzes student performance data to uncover patterns and insights 
 📁 Files
 
 Student_Data Analysis.ipynb: Main analysis notebook
+
 stud.csv: Student performance dataset
 
 🔍 Focus Areas
 
 Demographics (gender, parental education, etc.)
+
 Study habits and attendance
+
 Final grades and academic performance
 
 🧪 Tools Used
+
 pandas, numpy, seaborn, matplotlib
 
 🚀 How to Run
