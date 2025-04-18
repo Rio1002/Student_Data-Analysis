@@ -24,6 +24,9 @@ pandas, numpy, seaborn, matplotlib
 1. Clone the repo
 2. Install dependencies
 3. Open the notebook in Jupyter
+   
  git clone https://github.com/Rio1002/Student_Data-Analysis.git
+
  cd Student_Data-Analysis
+ 
  jupyter notebook
